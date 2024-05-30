@@ -76,7 +76,7 @@ main .home .img{
     /* margin: 0 9em; */
     /* width: 80%; */
     height: 100%;
-    background-image: url('./Images/Real man.png');
+    background-image: url('Real man.png');
     background-position: center;
     background-size: cover;
 }
@@ -108,7 +108,7 @@ main .about{
 }
 
 main .about .img_box{
-    background-image: url('./Images/Real\ man.png');
+    background-image: url('Real\ man.png');
     background-size: cover;
     background-position: center;
     min-width: 30%;
@@ -443,22 +443,22 @@ main .about .pro_btn{
 }
 
 .project-images-1{
-    background-image: url('./Images/blog1.png');
+    background-image: url('blog1.png');
 }
 .project-images-2{
-    background-image: url('./Images/blog2.png');
+    background-image: url('blog2.png');
 }
 .project-images-3{
-    background-image: url('./Images/blog3.png');
+    background-image: url('m-blog-3.png');
 }
 .project-images-4{
-    background-image: url('./Images/blog4.png');
+    background-image: url('blog4.png');
 }
 .project-images-5{
-    background-image: url('./Images/m-blog-1.jpg');
+    background-image: url('m-blog-1.jpg');
 }
 .project-images-6{
-    background-image: url('./Images/m-blog-2.jpg');
+    background-image: url('m-blog-2.jpg');
 }
 
 .pro1, .pro4, .pro6{
@@ -540,15 +540,15 @@ main .about .pro_btn{
 }
 
 .our_blog .blog_body .blog-image1{
-    background-image: url('./Images/blog1.png');
+    background-image: url('Images/blog1.png');
 }
 
 .our_blog .blog_body .blog-image2{
-    background-image: url('./Images/blog2.png');
+    background-image: url('blog2.png');
 }
 
 .our_blog .blog_body .blog-image3{
-    background-image: url('./Images/blog3.png');
+    background-image: url('m-blog-3.jpg');
 }
 
 .our_blog .blog_body p{
@@ -619,7 +619,7 @@ main .about .pro_btn{
 }
 
 .half_sides .img_box{
-    background-image: url('./Images/Real\ man.png');
+    background-image: url('Real\ man.png');
     width: 100%;
     height: 350px;
     background-size: cover;
